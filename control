@@ -1,0 +1,10 @@
+Package: com.onemoretweak.OneMoreTime
+Name: OneMoreTime
+Description: Adds a second clock from another timezone to status bar.
+Version: 1.0
+Priority: optional
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate,ws.hbang.common,firmware (>= 7.0)
+Maintainer: ninty, untigris & citrusui
+Author: ninty, untigris & citrusui
